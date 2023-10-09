@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "0",
     name: "Airpods Wireless Bluetooth HeadPhones",
     image: "/images/airpods.jpg",
     description:
@@ -13,9 +12,8 @@ const products = [
     numReviews: 132,
   },
   {
-    _id: "1",
     name: "Airpods Wireless Bluetooth HeadPhones",
-    image: "/images/airpods.jpg",
+    image: "/images/alexa.jpg",
     description:
       "Bluetooth tecchnology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listining experince Built-in microphone allows you to take calls while working",
     brand: "Apple",
@@ -26,9 +24,8 @@ const products = [
     numReviews: 0,
   },
   {
-    _id: "2",
     name: "Airpods Wireless Bluetooth HeadPhones",
-    image: "/images/airpods.jpg",
+    image: "/images/camera.jpg",
     description:
       "Bluetooth tecchnology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listining experince Built-in microphone allows you to take calls while working",
     brand: "Apple",
@@ -39,9 +36,8 @@ const products = [
     numReviews: 1,
   },
   {
-    _id: "3",
     name: "Airpods Wireless Bluetooth HeadPhones",
-    image: "/images/airpods.jpg",
+    image: "/images/mouse.jpg",
     description:
       "Bluetooth tecchnology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listining experince Built-in microphone allows you to take calls while working",
     brand: "Apple",
@@ -52,9 +48,8 @@ const products = [
     numReviews: 52,
   },
   {
-    _id: "4",
     name: "Airpods Wireless Bluetooth HeadPhones",
-    image: "/images/airpods.jpg",
+    image: "/images/phone.jpg",
     description:
       "Bluetooth tecchnology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listining experince Built-in microphone allows you to take calls while working",
     brand: "Apple",
@@ -65,9 +60,8 @@ const products = [
     numReviews: 42,
   },
   {
-    _id: "5",
     name: "Airpods Wireless Bluetooth HeadPhones",
-    image: "/images/airpods.jpg",
+    image: "/images/playstation.jpg",
     description:
       "Bluetooth tecchnology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listining experince Built-in microphone allows you to take calls while working",
     brand: "Apple",
@@ -78,7 +72,6 @@ const products = [
     numReviews: 2,
   },
   {
-    _id: "6",
     name: "Airpods Wireless Bluetooth HeadPhones",
     image: "/images/airpods.jpg",
     description:
